@@ -13,7 +13,7 @@ public class MainTest {
 	private static void greeting() {
 			System.out.println("hello");
 			System.out.println("hi");
-
+			System.out.println("how r u");
 			
 
 	}
